@@ -13,4 +13,8 @@ In case you don't know what to do: Click on the green "Clone or Download" button
 
 **Note that:**
 
-  1)Renaming the file will ruin the loop command! Leave the file the way it is or rename it **AND** change the *START SloppyPanda.bat* line to *START [name you selected].bat*
+1) Renaming the file will ruin the loop command! Leave the file the way it is or rename it **AND** change the 
+***START SloppyPanda.bat*** line to 
+*START [name you selected].bat*
+
+2) Ruining someone's day is not cool..
