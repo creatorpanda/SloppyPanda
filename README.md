@@ -5,7 +5,7 @@
 
 This is a batch file that **STARTS** itself repeatedly, and the called "clones" run themselves too -and so on, until RAM "gets tired" and the computer freezes, or barely moves. The situation becomes almost(?) impossible to handle!
 
-It's also a good idea not to mess with your friends, relatives ~~and enemies~~ by using this program.. Just study the code, thats the whole point!
+It's also a good idea not to mess with your friends, relatives ~~and enemies~~ by using this program.. Just study the code, that's the whole point!
 
 You can **run it at your own risk** after closing every running program and/or saving any unsaved activity like compilers, notepads, video editors etc so you don't lose anything **BUT I WOULDN'T RECOMMEND IT!!** You can also click [**HERE**](https://github.com/creatorpanda/SloppyPanda/blob/master/SloppyPanda.bat) to read the code online and totally safely.
 
