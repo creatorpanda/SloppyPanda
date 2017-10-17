@@ -17,4 +17,4 @@ In case you don't know what to do: Click on the green "Clone or Download" button
 ***START SloppyPanda.bat*** line to 
 *START [name you selected].bat*
 
-2) Ruining someone's day is not cool..
+2) Ruining someone's day/PC is not cool and possibly illegal..
